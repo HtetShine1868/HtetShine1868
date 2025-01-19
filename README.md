@@ -124,7 +124,6 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
 ## 🏆 Achievements & Certifications
 
 - 🏆 **Top 10 Finalist** in the University Hackathon (2023)
-- 📜 **Certified Java Developer** from [Oracle](https://www.oracle.com/)
 - 📜 **Spring Boot Mastery** Certification from [Udemy](https://www.udemy.com/)
 - 🏅 **University Project Leader** for multiple successful projects
 
