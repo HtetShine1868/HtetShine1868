@@ -103,8 +103,6 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
   
 ---
 
-## 📂 Project Overview
-
 ## 🚀 My Projects  
 
 | Project Name | Description | Technologies | Repository Link |
