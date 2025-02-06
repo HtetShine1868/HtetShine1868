@@ -6,10 +6,6 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
 
 ## 🚀 About Me
 
-- 💻 **Currently working on**:  
-  - **Student Management System** (C++)  
-  - **Swal Book Shop** (HTML, CSS, JavaScript)
-
 - 🌱 **Learning**:  
   - Advanced **Spring Boot** and **React**  
   - **REST API development**
@@ -76,19 +72,6 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
 
 ## 🎓 My Projects
 
-### 🎓 [Student Management System](https://github.com/HtetShine1868/student-management-system)
-> A **comprehensive C++ program** to manage student records efficiently.
-
-- 🚀 **Features**:  
-  - Add, search, and manage student records  
-  - Validate and store data securely  
-  - Generate performance reports  
-
-- 🛠️ **Technologies Used**:  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
----
-
 ### 📚 [Swal Book Shop](https://github.com/HtetShine1868/swal-book-shop)
 > A **responsive bookshop web application** with modern design.
 
@@ -117,6 +100,8 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+  
+---
 
 ## 📂 Project Overview
 
@@ -134,6 +119,7 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
 
 📌 **More projects coming soon...**  
 
+---
 
 ## 🧠 My Skills
 
