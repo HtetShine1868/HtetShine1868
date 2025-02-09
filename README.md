@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
 ### 🌱 Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+ 
 </p>
 
 ### 🗄️ Databases
@@ -133,7 +133,6 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
 ## 🏆 Achievements & Certifications
 
 - 🏆 **Top 10 Finalist** in the University Hackathon (2023)
-- 📜 **Spring Boot Mastery** Certification from [Udemy](https://www.udemy.com/)
 - 🏅 **University Project Leader** for multiple successful projects
 
 ---
