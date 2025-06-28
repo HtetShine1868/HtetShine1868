@@ -107,9 +107,9 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
 
 | Project Name | Description | Technologies | Repository Link |
 |--------------|-------------|--------------|-----------------|
-| ✅ [Test Track App](https://github.com/HtetShine1868/test-track-app) | A task tracking system with role-based access control and JWT authentication | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | [GitHub Repo](https://github.com/HtetShine1868/test-track-app) |
-| 👨‍💼 [Employee Management System](https://github.com/HtetShine1868/CRUD) | A Spring Boot REST API for managing employee records | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | [GitHub Repo](https://github.com/HtetShine1868/CRUD) |
-| 🎓 [Student Management System](https://github.com/HtetShine1868/student-management-system) | A C++ console application for handling student records efficiently | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | [GitHub Repo](https://github.com/HtetShine1868/student-management-system) |
+| ✅ [Test Track App](https://github.com/HtetShine1868/TestTrackApp) | A task tracking system with role-based access control and JWT authentication | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | [GitHub Repo](https://github.com/HtetShine1868/TestTrackApp) |
+| 👨‍💼 [Learning Management System](https://github.com/HtetShine1868/lms-java) | A Spring Boot REST API for managing employee records | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | [GitHub Repo](https://github.com/HtetShine1868/lms-java) |
+| 🎓 [Student Management System](https://github.com/HtetShine1868/Student-Management-System) | A C++ console application for handling student records efficiently | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | [GitHub Repo](https://github.com/HtetShine1868/Student-Management-System) |
 
 
 📌 **More projects coming soon...**  
