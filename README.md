@@ -25,7 +25,9 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
   <img src="https://github-readme-stats.vercel.app/api?username=HtetShine1868&show_icons=true&theme=radical" alt="GitHub Stats by Htet Shine" width="450" />
 </p>
 
-
+<p align="center">
+  <img src="https://github.com/users/HtetShine1868/contributions.svg" alt="GitHub Contributions" width="650" />
+</p>
 ## 🔥 Most Used Languages
 
 <p align="center">
