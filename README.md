@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HtetShine1868&theme=radical&cache_seconds=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HtetShine1868&theme=radical&cache_seconds=1" alt="GitHub Trophies" width="800"/>
 </p>
 
 ---
