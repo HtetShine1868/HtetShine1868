@@ -24,11 +24,7 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HtetShine1868&show_icons=true&theme=radical" alt="GitHub Stats by Htet Shine" width="450" />
 </p>
-<p align="center">
-  <a href="https://github.com/HtetShine1868">
-    <img src="https://ghchart.rshah.org/HtetShine1868" alt="GitHub Contribution Chart" width="700" />
-  </a>
-</p>
+
 
 
 
