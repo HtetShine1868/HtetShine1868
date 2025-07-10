@@ -19,11 +19,11 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
 
 ## 📊 GitHub Stats Overview
 
-### ⭐ General Stats
+### GitHub Stats
 
-<p align="center">
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HtetShine1868&count_private=true&show_icons=true&theme=radical)
-</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HtetShine1868&show_icons=true&theme=radical)
+
+
 
 ## 🔥 Most Used Languages
 
