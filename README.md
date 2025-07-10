@@ -31,18 +31,18 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtetShine1868&layout=compact&theme=radical&langs_count=8" alt="Top Languages by Htet Shine" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtetShine1868&layout=compact&theme=radical&langs_count=8&cache_seconds=1" alt="Top Languages by Htet Shine" width="450" />
 </p>
 
 ### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HtetShine1868&theme=radical" alt="Contribution Activity Graph" width="800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HtetShine1868&theme=radical&cache_seconds=1" alt="Contribution Activity Graph" width="800" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HtetShine1868&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HtetShine1868&theme=radical&cache_seconds=1" alt="GitHub Trophies" />
 </p>
 
 ---
