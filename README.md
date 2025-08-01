@@ -144,7 +144,6 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
 - 🏅 **University Project Leader** for multiple successful projects
 
 ---
-
 ## 🌐 Let's Connect!
 
 <p align="center">
@@ -154,7 +153,7 @@ Welcome to my GitHub profile! I'm a **passionate guy** skilled in **Java**, **Sp
   <a href="https://github.com/HtetShine1868">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="hetaungshine25@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
