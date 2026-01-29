@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Htet Shine!
 
-Welcome to my GitHub profile! I'm a **passionate developer** skilled in **Java**, **Spring Boot**, **C++**, **HTML**, **CSS**, and **JavaScript**, dedicated to crafting innovative and user‑friendly solutions.
+Welcome to my GitHub profile! I'm a **passionate developer** skilled in **Java**, **Spring Boot**, **C++**, **HTML**, **CSS**, and **JavaScript**, dedicated to crafting innovative and user-friendly solutions.
 
 ---
 
@@ -13,36 +13,38 @@ Welcome to my GitHub profile! I'm a **passionate developer** skilled in **Java**
 
 * 🎯 **Interests**:
 
-  * Building full‑stack web applications
+  * Building full-stack web applications
   * Exploring algorithms and data structures
   * Crafting responsive UI/UX designs
 
 ---
 
-## 📊 GitHub Stats Overview
-
-### GitHub Stats
+## 📊 GitHub Stats Overview (Alternative Badges)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HtetShine1868&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats by Htet Shine" width="450" />
+  <!-- Repo Count -->
+  <img src="https://img.shields.io/github/repo-count/HtetShine1868?style=for-the-badge&color=2b9348" alt="GitHub Repo Count" />
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/HtetShine1868?style=for-the-badge&color=0077b6" alt="GitHub Followers" />
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/HtetShine1868?style=for-the-badge&color=f48c06" alt="GitHub Stars" />
+  <!-- Commit Activity -->
+  <img src="https://img.shields.io/github/commit-activity/y/HtetShine1868?style=for-the-badge&color=8d99ae" alt="Commit Activity" />
 </p>
 
-### 🔥 Most Used Languages
+### 🔥 Top Languages (from key repos)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtetShine1868&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" alt="Top Languages by Htet Shine" width="450" />
+  <img src="https://img.shields.io/github/languages/top/HtetShine1868/EventPlanner?style=for-the-badge" alt="Top Language EventPlanner" />
+  <img src="https://img.shields.io/github/languages/top/HtetShine1868/swal-book-shop?style=for-the-badge" alt="Top Language Swal Book Shop" />
+  <img src="https://img.shields.io/github/languages/top/HtetShine1868/lms-java?style=for-the-badge" alt="Top Language LMS Java" />
 </p>
 
-### 📈 Contribution Activity Graph
+### 📈 Activity Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HtetShine1868&theme=radical" alt="Contribution Activity Graph" width="800" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HtetShine1868&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" width="800" />
+  <img src="https://img.shields.io/github/issues/HtetShine1868?style=for-the-badge&color=ef233c" alt="Open Issues" />
+  <img src="https://img.shields.io/github/issues-pr/HtetShine1868?style=for-the-badge&color=d90429" alt="Open Pull Requests" />
 </p>
 
 ---
@@ -89,7 +91,7 @@ Welcome to my GitHub profile! I'm a **passionate developer** skilled in **Java**
 A responsive bookshop web application with modern design.
 
 * Dynamic catalog with categories
-* User‑friendly UI and responsive design
+* User-friendly UI and responsive design
 * Interactive animations
 
 ---
