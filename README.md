@@ -1,6 +1,4 @@
 
-<!-- PROFILE HEADER -->
-
 <h1 align="center">Hey there! 👋 I'm Htet Aung Shine</h1>
 
 <h3 align="center">
@@ -8,16 +6,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real+applications;Building+web+applications+with+Java+%26+React;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real+applications;Building+with+Java+%26+React;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/HtetShine1868">
-    <img src="https://komarev.com/ghpvc/?username=HtetShine1868&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/HtetShine1868?tab=followers">
-    <img src="https://img.shields.io/github/followers/HtetShine1868?label=Followers&style=flat&color=blue" alt="Followers" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=HtetShine1868&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/HtetShine1868?label=Followers&style=flat&color=blue" alt="Followers" />
 </p>
 
 ---
@@ -53,6 +47,16 @@ I'm always curious, always experimenting, and always looking for something new t
 | 🎓 **Skill Hub** | Learning platform featuring skill roadmaps, courses, instructor dashboards, and admin course approval. | Spring Boot, Java 21, React, PostgreSQL, WebSocket | [GitHub](https://github.com/HtetShine1868/SkillHub) |
 | 🏠 **RentEase** | Rental and service management platform with multiple user roles and role-based access control. | Laravel 12, PHP, Livewire, MySQL, Tailwind CSS | [GitHub](https://github.com/HtetShine1868/RentEase) |
 | 📅 **EventPlanner** | Event and task management application with secure authentication and role-based access control. | Spring Boot, Java, PostgreSQL, JWT | [GitHub](https://github.com/HtetShine1868/EventPlanner) |
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=HtetShine1868&theme=bluefy&hide_border=false" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
