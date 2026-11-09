@@ -25,28 +25,16 @@ I love exploring how technology works, solving real-world problems, and building
 I'm always curious, always experimenting, and always looking for something new to build. 🚀
 
 - Passionate about **Full-Stack Development**
-- Enjoy working with **Java, Spring Boot, React, and Laravel**
 - Love problem-solving and learning through hands-on projects
 - Interested in building practical applications and exploring AI-powered solutions
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,react,js,ts,html,css,tailwind,mysql,postgres,supabase,git,github,docker,vscode,idea&perline=9" alt="Tech Stack" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Technologies | Link |
-|---|---|---|---|
-| **E-Commerce Platform** | Online shopping platform with product management, social login, order tracking, and an e-commerce-focused AI chatbot. | Spring Boot, Java 21, React, TypeScript, PostgreSQL, Supabase | [GitHub](https://github.com/HtetShine1868/ECOM) · [Live Demo](https://ecommerce-jade-mu-52.vercel.app) |
-| **Skill Hub** | Learning platform featuring personalized skill roadmaps, courses, instructor dashboards, and admin course approval. | Spring Boot, Java 21, React, PostgreSQL, WebSocket | [GitHub](https://github.com/HtetShine1868/SkillHub)  · [Live Demo](https://skill-hub-dusky.vercel.app) |
-| **RentEase** | Rental and services management platform with multiple user roles and role-based access control. | Laravel 12, PHP, Livewire, MySQL, Tailwind CSS | [GitHub](https://github.com/HtetShine1868/RentEase) |
-| **EventPlanner** | Event and task management application with secure authentication and role-based access control. | Spring Boot, Java, PostgreSQL, JWT | [GitHub](https://github.com/HtetShine1868/EventPlanner) |
 
 ---
 
@@ -59,6 +47,18 @@ I'm always curious, always experimenting, and always looking for something new t
 </p>
 
 ---
+
+##  Featured Projects
+
+| Project | Description | Technologies | Link |
+|---|---|---|---|
+| **E-Commerce Platform** | Online shopping platform with product management, social login, order tracking, and an e-commerce-focused AI chatbot. | Spring Boot, Java 21, React, TypeScript, PostgreSQL, Supabase | [GitHub](https://github.com/HtetShine1868/ECOM) · [Live Demo](https://ecommerce-jade-mu-52.vercel.app) |
+| **Skill Hub** | Learning platform featuring personalized skill roadmaps, courses, instructor dashboards, and admin course approval. | Spring Boot, Java 21, React, PostgreSQL, WebSocket | [GitHub](https://github.com/HtetShine1868/SkillHub)  · [Live Demo](https://skill-hub-dusky.vercel.app) |
+| **RentEase** | Rental and services management platform with multiple user roles and role-based access control. | Laravel 12, PHP, Livewire, MySQL, Tailwind CSS | [GitHub](https://github.com/HtetShine1868/RentEase) |
+| **EventPlanner** | Event and task management application with secure authentication and role-based access control. | Spring Boot, Java, PostgreSQL, JWT | [GitHub](https://github.com/HtetShine1868/EventPlanner) |
+
+---
+
 
 ## 🏆 Achievements
 
