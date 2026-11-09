@@ -1,219 +1,69 @@
 
-# 👋 Hi, I'm Htet Aung Shine
+<!-- PROFILE HEADER -->
 
-### Full-Stack Developer | Java & Spring Boot | React | Problem Solver
+<h1 align="center">Hey there! 👋 I'm Htet Aung Shine</h1>
 
-I build practical, full-stack applications that solve real-world problems. My interests include backend engineering, scalable application architecture, database design, authentication systems, and interactive user experiences.
+<h3 align="center">
+  Full-Stack Developer | Java & Spring Boot | React | Problem Solver
+</h3>
 
-I enjoy turning ideas into working products, exploring new technologies, and continuously improving my development skills.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real+applications;Building+web+applications+with+Java+%26+React;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/HtetShine1868">
+    <img src="https://komarev.com/ghpvc/?username=HtetShine1868&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/HtetShine1868?tab=followers">
+    <img src="https://img.shields.io/github/followers/HtetShine1868?label=Followers&style=flat&color=blue" alt="Followers" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Interested in building full-stack web applications.
-- ☕ Focused on Java, Spring Boot, and backend development.
-- ⚛️ Building modern frontend applications with React.
-- 🔐 Interested in authentication, authorization, and secure API development.
-- 🗄️ Experienced with relational databases and application data management.
-- 🧠 Enjoy solving problems through algorithms and data structures.
-- 🏆 Participated in hackathons and collaborative university projects.
+Hey! I'm **Htet Aung Shine**, a developer who enjoys turning ideas into useful applications and bringing creative solutions to life.
 
-### 🌱 Currently Exploring
-- Advanced Spring Boot and REST API architecture
-- React and modern frontend development
-- System design and software architecture
-- Real-time communication and AI-powered applications
+I love exploring how technology works, solving real-world problems, and building applications that make everyday tasks easier. Whether it's creating a clean user interface, developing backend systems, or connecting everything together, I enjoy every part of the development process.
+
+I'm always curious, always experimenting, and always looking for something new to build. 🚀
+
+- 💻 Passionate about **Full-Stack Development**
+- ☕ Enjoy working with **Java, Spring Boot, React, and Laravel**
+- 🧠 Love problem-solving and learning through hands-on projects
+- 🚀 Interested in building practical applications and exploring AI-powered solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,php,js,ts,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,react,js,ts,html,css,tailwind,mysql,postgres,supabase,git,github,docker,vscode,idea&perline=9" alt="Tech Stack" />
 </p>
-
-### 🌱 Frameworks & Libraries
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,laravel,react,tailwind,bootstrap" />
-</p>
-
-### 🗄️ Databases & Storage
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,postman,vercel" />
-</p>
-
-### Other Technologies
-
-- Spring Security
-- JWT Authentication
-- OAuth 2.0
-- Spring Data JPA / Hibernate
-- RESTful API Development
-- WebSocket / STOMP
-- Role-Based Access Control (RBAC)
-- Livewire
-- Supabase Storage
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 1. E-Commerce Platform
-
-A full-stack online shopping platform with an AI assistant specifically designed for e-commerce-related conversations.
-
-**Key Features**
-- Product catalog and product management.
-- Product search, filtering, and browsing.
-- Shopping cart with quantity management.
-- Google and Facebook OAuth2 authentication.
-- Order placement and order history.
-- Admin product, inventory, and order management.
-- Product image storage using Supabase.
-- Domain-specific AI chatbot designed to answer e-commerce-related questions.
-
-**Tech Stack**
-- Backend: Java 21, Spring Boot 3
-- Frontend: React 19, TypeScript, Vite
-- Database: PostgreSQL / Supabase
-- Security: Spring Security, JWT, OAuth2
-- Storage: Supabase Storage
-- Deployment: Render, Vercel
-
-🔗 **Repository:** [ECOM](https://github.com/HtetShine1868/ECOM)
-
-🌐 **Live Demo:** [E-Commerce Application](https://ecommerce-jade-mu-52.vercel.app)
-
----
-
-### 🎓 2. Skill Hub — Learning & Skill Development Platform
-
-A role-based learning platform connecting learners, instructors, courses, and structured skill development roadmaps.
-
-**Key Features**
-- Role-based authentication for Users, Instructors, and Administrators.
-- Centralized Skill Library managed by administrators.
-- Structured learning roadmaps with different learning phases.
-- Instructor course and lesson management.
-- Admin course approval and rejection workflow.
-- Skill-to-course mapping with different proficiency levels.
-- Course discovery and personal learning management.
-- Real-time communication infrastructure.
-
-**Tech Stack**
-- Backend: Java 21, Spring Boot 4
-- Frontend: React 19, JavaScript, Vite
-- Database: PostgreSQL
-- Security: Spring Security, JWT, OAuth2
-- Real-time: WebSocket, STOMP, SockJS
-- UI: Framer Motion, Lucide React
-
-🔗 **Repository:** [SkillHub](https://github.com/HtetShine1868/SkillHub)
-
----
-
-### 🏠 3. RentEase — Rental & Service Management Platform
-
-A role-based platform designed to manage rental-related operations and service providers through a centralized system.
-
-**Key Features**
-- Role-based authentication and authorization.
-- Multiple user roles: USER, OWNER, FOOD, LAUNDRY, and SUPERADMIN.
-- Permission management using Spatie Laravel Permission.
-- Role-specific access and application workflows.
-- Rental and service management functionality.
-- Interactive interfaces using Livewire.
-- Responsive UI using Tailwind CSS.
-
-**Tech Stack**
-- Backend: PHP 8.2, Laravel 12
-- Frontend: Blade, Livewire 3
-- Database: MySQL
-- Authorization: Spatie Laravel Permission
-- Authentication: Laravel Fortify, Sanctum
-- Styling: Tailwind CSS
-- Build Tools: Vite
-
-🔗 **Repository:** [RentEase](https://github.com/HtetShine1868/RentEase)
-
----
-
-### 📅 4. EventPlanner
-
-A task and event management application focused on authentication, authorization, and secure backend development.
-
-**Key Features**
-- Task tracking and management.
-- User authentication with JWT.
-- Role-based access control.
-- REST API architecture.
-- PostgreSQL database integration.
-
-**Tech Stack:** Java, Spring Boot, PostgreSQL, JWT.
-
-🔗 **Repository:** [EventPlanner](https://github.com/HtetShine1868/EventPlanner)
-
----
-
-## 📊 GitHub Analytics
-
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HtetShine1868&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub Statistics" />
-</p>
-
-### 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtetShine1868&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Most Used Languages" />
-</p>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HtetShine1868&theme=redical&hide_border=true" alt="GitHub Contribution Activity" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HtetShine1868&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🧠 Beyond Coding
-
-- **Leadership:** Experience leading university projects and coordinating team activities.
-- **Problem Solving:** Interested in algorithmic thinking and developing efficient solutions.
-- **Collaboration:** Enjoy working with teammates to turn ideas into practical applications.
-- **Adaptability:** Comfortable learning new technologies and working with different development stacks.
-- **Hackathons:** Enjoy building prototypes and solving real-world challenges under time constraints.
+| Project | Description | Technologies | Link |
+|---|---|---|---|
+| 🛒 **E-Commerce Platform** | Online shopping platform with product management, social login, order tracking, and an e-commerce-focused AI chatbot. | Spring Boot, Java 21, React, TypeScript, PostgreSQL, Supabase | [GitHub](https://github.com/HtetShine1868/ECOM) · [Live Demo](https://ecommerce-jade-mu-52.vercel.app) |
+| 🎓 **Skill Hub** | Learning platform featuring skill roadmaps, courses, instructor dashboards, and admin course approval. | Spring Boot, Java 21, React, PostgreSQL, WebSocket | [GitHub](https://github.com/HtetShine1868/SkillHub) |
+| 🏠 **RentEase** | Rental and service management platform with multiple user roles and role-based access control. | Laravel 12, PHP, Livewire, MySQL, Tailwind CSS | [GitHub](https://github.com/HtetShine1868/RentEase) |
+| 📅 **EventPlanner** | Event and task management application with secure authentication and role-based access control. | Spring Boot, Java, PostgreSQL, JWT | [GitHub](https://github.com/HtetShine1868/EventPlanner) |
 
 ---
 
 ## 🏆 Achievements
 
-- 🏆 Top 10 Finalist — University Hackathon (2023).
-- 🥈 Second Prize — Mira AI Project.
-- 👨‍💻 Led multiple university software development projects.
-- 🚀 Developed and deployed full-stack applications.
+- 🥈 **Second Prize** – Mira AI Project
+- 🏅 **Top 10 Finalist** – University Hackathon 2023
 
 ---
 
-## 🌐 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/HtetShine1868">
@@ -224,8 +74,6 @@ A task and event management application focused on authentication, authorization
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>Building, learning, experimenting, and improving one project at a time.</i>
+  <i>"Great things are built one line of code at a time."</i> 💙
 </p>
